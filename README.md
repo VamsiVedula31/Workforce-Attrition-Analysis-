@@ -42,7 +42,8 @@ BUSINESS INSIGHTS:
 
 REPOSITORY CONTENTS:
 
-SQL Scripts: [queries.sql](SQL/queries.sql) 
+SQL Scripts:  [queries.sql](SQL/queries.sql) 
+DAX Measures: [Measures.md](DAX/Measures.md)
 
 Calcualted Measures and KPIs: https://github.com/VamsiVedula31/Workforce-Attrition-Analysis-/blob/d2a2f0a931f0b567a19b01baef872e80a0a26d0d/Power%20BI/DAX%20Measures/Calculated%20Measures
 
