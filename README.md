@@ -48,8 +48,7 @@ DAX Measures: [Measures.md](DAX/Measures.md)
 
 KPIs: [KPIs.md](DAX/KPIs.md)
 
-You can ecplore the interactive Power BI dashboard here:
-
+You can explore the interactive Power BI dashboard here:
 [Download Dashboard(.pbix)](./Dashboard/WorkforceAttritionDashboard.pbix)
 
 
