@@ -40,7 +40,7 @@ REPOSITORY CONTENTS:
 
 SQL Scripts: [queries.sql](SQL/queries.sql) 
 
-[DAX Measures Folder](Power BI/DAX Measures/Calculated Measures)
+Interactive Dashboard: Power BI/Workforce Attrition Analysis_V_1.1.pbix
 
 [DAX Measures Folder](Power BI/DAX Measures/KPI Measures)
 
