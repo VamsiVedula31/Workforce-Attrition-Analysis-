@@ -25,9 +25,9 @@ METHEDOLOGY:
 
 – Feature Engineering: Created derived variables such as Tenure groups and Age groups to enhance analysis.
 
-- Data Visualization: Built interactive dashboard using Power BI to communicate key metrics and trends	clearly.
+– Data Visualization: Built interactive dashboard using Power BI to communicate key metrics and trends	clearly.
 
-- Insights Extractions: Identified key drivers of attrition and recommended actionable strategies to HR.
+– Insights Extractions: Identified key drivers of attrition and recommended actionable strategies to HR.
 
 
 BUSINESS INSIGHTS: 
