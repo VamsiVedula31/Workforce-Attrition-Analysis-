@@ -1,6 +1,6 @@
 KEY PERFORMANCE INDICATORS (KPIs)
 
-KPI - Attrition Rate - Low Training =
+```KPI - Attrition Rate - Low Training =
 
 VAR Threshold = 20
 VAR StartDate = EDATE(TODAY(), -12)
@@ -242,5 +242,5 @@ VAR Drivers =
 VAR TopRow =  TOPN(1, Drivers, [Value], DESC)
 VAR TopName = MAXX(TopRow, [Driver])
 RETURN
-IF( ISBLANK(TopName), "No data", TopName)
+IF( ISBLANK(TopName), "No data", TopName)```
 ______________________________________________________________________________
