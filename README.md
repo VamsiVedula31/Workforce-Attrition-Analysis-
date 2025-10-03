@@ -7,7 +7,9 @@ This project sheds light on the work force attrition trends over the past 12 mon
 OBJECTIVES:
 
 – The goal is to analyse and understand the root causes behind employee exits. 
+
 – Analyse job satisfaction and benefits coverage to understand how engaged employees feel.
+
 – Assess how training hours impact job satisfaction, performance and promotions. 
 
 
@@ -33,7 +35,9 @@ METHEDOLOGY:
 BUSINESS INSIGHTS: 
 
 – It is highly recommmended that the leadership look into better practices of onboarding and early engagement to stem down turnover of new hires. 
+
 – Providing more training opportunities across all departments could benefit employees in keeping them more engaged.
+
 – Understanding the effectiveness of management and career progression within the organization could help in reaping better employee engagement. 
 
 REPOSITORY CONTENTS:
