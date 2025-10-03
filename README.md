@@ -39,7 +39,9 @@ BUSINESS INSIGHTS:
 REPOSITORY CONTENTS:
 
 [queries.sql](SQL/queries.sql) 
+
 [DAX Measures Folder](Power BI/DAX Measures/Calculated Measures)
+
 [DAX Measures Folder](Power BI/DAX Measures/KPI Measures)
 
 
