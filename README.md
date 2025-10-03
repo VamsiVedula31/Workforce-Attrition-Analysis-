@@ -50,7 +50,7 @@ KPIs: [KPIs.md](DAX/KPIs.md)
 
 You can ecplore the interactive Power BI dashboard here:
 
-[Download Dashboard(.pbix)](./Dashboard/WorkforceAttritionAnalysis_V_1.1)
+[Download Dashboard(.pbix)](./Dashboard/WorkforceAttritionDashboard.pbix)
 
 
 
