@@ -1,6 +1,7 @@
 DAX MEASURES
 
-```Abesteeism_Rate_% =
+```
+Abesteeism_Rate_% =
 DIVIDE(
     SUM('dd_project hr_data'[Absenteeism]),
     SUM('dd_project hr_data'[WorkDays])
