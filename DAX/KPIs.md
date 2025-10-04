@@ -2,6 +2,7 @@ KEY PERFORMANCE INDICATORS (KPIs)
 
 ```KPI - Attrition Rate - Low Training =
 
+KPI - Attrition Rate - Low Training = 
 VAR Threshold = 20
 VAR StartDate = EDATE(TODAY(), -12)
 RETURN
