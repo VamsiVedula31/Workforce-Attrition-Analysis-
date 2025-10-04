@@ -1,4 +1,5 @@
 # Workforce-Attrition-Analysis-
+
 OVERVIEW:  
 
 This project sheds light on the work force attrition trends over the past 12 months, and focuses on understanding the key factors of attrition, engagement, job satisfaction, training hours and employee benefits. The analysis aims to uncover insights that can aid HR and leadership reduce turnover and improve workforce stability.
