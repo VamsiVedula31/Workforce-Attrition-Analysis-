@@ -30,7 +30,7 @@ METHEDOLOGY:
 
 – Data Visualization: Built interactive dashboard using Power BI to communicate key metrics and trends	clearly.
 
-– Insights Extractions: Identified key drivers of attrition and recommended actionable strategies to HR.
+– Insights Extractions: Identified key drivers of attrition that could help leadership make informed decisions.
 
 
 BUSINESS INSIGHTS: 
